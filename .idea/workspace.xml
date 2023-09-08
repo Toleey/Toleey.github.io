@@ -23,7 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de31a213-e8bb-415e-a187-387a32e2f5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +43,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Toleey"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e862c917-6e75-4756-ac2d-f42785ff4215" />
+        <option name="url" value="https://github.com/Toleey/Toleey.github.io.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -100,7 +117,7 @@
       <workItem from="1678618404896" duration="420000" />
       <workItem from="1684048625158" duration="770000" />
       <workItem from="1684224625121" duration="598000" />
-      <workItem from="1694148922464" duration="895000" />
+      <workItem from="1694148922464" duration="1676000" />
     </task>
     <task id="LOCAL-00001" summary="Update 1112">
       <created>1605149380078</created>
@@ -131,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694149546464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update 0908">
+      <option name="closed" value="true" />
+      <created>1694149872818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694149872818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +176,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update 1112" />
     <MESSAGE value="Update 0514" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 0514" />
+    <MESSAGE value="Update 0908" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 0908" />
   </component>
 </project>
